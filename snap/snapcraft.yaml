@@ -1,5 +1,5 @@
 name: aegisub
-base: core16
+base: core18
 adopt-info: aegisub
 summary: Free cross-platform open source subtitle editor
 description: |
