@@ -13,7 +13,6 @@ architectures:
 
 parts:
   aegisub:
-    after: [libappindicator]
     plugin: dump
     source: "https://github.com/wangqr/Aegisub/archive/v3.3.1.tar.gz"
     source-type: tar
